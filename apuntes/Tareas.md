@@ -1,7 +1,5 @@
 ---- Caracteristicas del juego:
 
--   2 jugadores
--   Tablero 5*5 6*6 7\*7
 -   Registrar un jugador
 -   Configurar tablero propio
 
@@ -53,6 +51,7 @@
 
 ----- Tablero:
 
+-   Tablero 5*5 6*6 7\*7
 -   Hay 3 tipos de tablero:
     -   Tablero al azar (pide tamaño, pide autos 5 y 12)
     -   Tablero propio
